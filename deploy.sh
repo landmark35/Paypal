@@ -1,5 +1,3 @@
 deployment of
-java apllications~
-~
-~
-
+java apllications
+web applications
